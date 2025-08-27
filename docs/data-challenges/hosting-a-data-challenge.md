@@ -2,6 +2,8 @@
 
 This page offers guidelines for scientists, educators, and policymakers interested in hosting data challenges through Wildfire Commons.
 
+![type:video](https://www.youtube-nocookie.com/embed/b7Mjh1b2qOQ)
+
 ## Preparing Your Challenge
 
 Before creating your challenge, ensure you have the following information and steps completed:

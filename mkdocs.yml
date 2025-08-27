@@ -6,6 +6,7 @@ nav:
   - About: 
     - About Wildfire Commons: general/about.md
     - Key Features: general/key-features.md
+    - Community Questions: general/community-questions.md
   - Start: 
     - Getting Started: start/getting-started.md
     - Sign In: start/signin.md
@@ -17,10 +18,11 @@ nav:
     - Register your Data, Models and Services: add-resources/register-data.md
     - Curated Catalogs: 
       - Learn about Curated Catalogs: add-resources/curated-catalog/about.md
-      - Add your Curated Catalog: add-resources/curated-catalog/add-data-catalog.md
+      - Create your Curated Catalog: add-resources/curated-catalog/create-curated-catalog.md
     #- Register a Model:  add-resources/register-model.md
     #- Register a Service: add-resources/register-service.md
   - FireForge:
+    - About: fireforge/about.md
     - Jupyterhub: fireforge/jupyterhub.md
     #- Widget: jupyter/widget.md
     - Bring your own image: fireforge/bring-your-own-image.md
@@ -82,3 +84,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - mkdocs-video

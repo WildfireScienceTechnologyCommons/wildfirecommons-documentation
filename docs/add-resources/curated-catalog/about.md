@@ -25,5 +25,5 @@ Curated catalogs can be embedded in a CollabStudio (whether for a Data Challenge
 <!--<img src="../pics/CollabStudio.png" style="border: 2px solid black;">-->
 
 
-Learn how to create and add resources to curated catalog in the following page: [Add your Curated Catalog](add-data-catalog.md).
+Learn how to create and add resources to curated catalog in the following page: [Create your Curated Catalog](create-curated-catalog.md).
 
