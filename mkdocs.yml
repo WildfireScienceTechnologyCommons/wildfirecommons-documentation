@@ -23,6 +23,9 @@ nav:
     #- Register a Service: add-resources/register-service.md
   - FireForge:
     - About: fireforge/about.md
+    - My Hub: fireforge/my-hub.md
+    - Workspace: fireforge/workspace.md
+    - Projects: fireforge/project.md
     - Jupyterhub: fireforge/jupyterhub.md
     #- Widget: jupyter/widget.md
     - Bring your own image: fireforge/bring-your-own-image.md

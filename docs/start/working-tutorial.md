@@ -1,28 +1,12 @@
 Once you’ve registered and explored the catalog, you’re ready to start working in Wildfire Commons. This tutorial will walk you through the essential steps to get started:
 
-1. Explore your Hub
+1. Create your first Workspace 
 
-2. Create your first Workspace 
-
-3. Work on your first Workspace
+2. Work on your first Workspace
 
 3. Create your first Project
 
 4. Set up your first Group
-
-## My Hub
-
-**My Hub** is your central hub for organizing your work on Wildfire Commons. It includes three main sections:
-
-- **Workspaces:**  Workspace is a collaborative environment designed to support a wide range of projects, including AI and Machine Learning (ML) workflows, exploratory data analysis (EDA), scientific research projects and educational projects. Each workspace operates within JupyterHub and provides integration with data resources from the Catalog and external GitHub repositories. 
-
-- **Curated Catalogs:** ADD SOMETHING
-
-- **Projects:** Projects support collaboration with research groups and help you develop and share workspaces.
-
-- **Data Challenges:**  Data Challenges are collaborative and competitive exercises designed to tackle real-world problems. This section lists data challenges you’re [participating in](../data-challenges/participating-in-data-challenge.md) or [hosting](../data-challenges/hosting-a-data-challenge.md).
-
-<img src="../pics/my-hub.png" style="border: 2px solid black;">
 
 ## Creating your first Workspace
 
