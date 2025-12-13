@@ -16,6 +16,7 @@ nav:
     #- Advanced Search: catalog/advanced-search.md
   - Add Resources to the Commons:
     - Register your Data, Models and Services: add-resources/register-data.md
+    - Marketplace: add-resources/marketplace.md
     - Curated Catalogs: 
       - Learn about Curated Catalogs: add-resources/curated-catalog/about.md
       - Create your Curated Catalog: add-resources/curated-catalog/create-curated-catalog.md
