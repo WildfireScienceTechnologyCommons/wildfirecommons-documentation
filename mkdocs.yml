@@ -30,7 +30,6 @@ nav:
     - Jupyterhub: fireforge/jupyterhub.md
     #- Widget: jupyter/widget.md
     - Bring your own image: fireforge/bring-your-own-image.md
-    #- Frequently Encountered Issues: jupyter/fei.md
     #- Workspace: 
     #  - Workspace: workspace/index.md
     #  - Tutorial: workspace/set-up.md
@@ -39,6 +38,8 @@ nav:
       - Join a Data Challenge: data-challenges/participating-in-data-challenge.md
   - Pathfinders:
     -  Add a Pathfinder Project: pathfinders/add-pathfinder-project.md
+  - FAQ:
+    - JupyterHub Issues: faq/jupyterhub.md
   - Policies and Guidelines: 
     - Terms of Use: policies/terms-of-use.md
     - Privacy Policy: policies/privacy-policy.md
