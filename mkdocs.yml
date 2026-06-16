@@ -36,8 +36,7 @@ nav:
   - Data Challenges: 
       - Host a Data Challenge: data-challenges/hosting-a-data-challenge.md
       - Join a Data Challenge: data-challenges/participating-in-data-challenge.md
-  - Pathfinders:
-    -  Add a Pathfinder Project: pathfinders/add-pathfinder-project.md
+  - Pathfinders: pathfinders/index.md
   - FAQ:
     - JupyterHub Issues: faq/jupyterhub.md
   - Policies and Guidelines: 

@@ -22,3 +22,15 @@ To further aid in data discovery, users have the option to filter their search r
 - **Organization:** Use organization filter to see the resources provided by specific insitutions/research group. 
 
 - **Format:** Use this filter to search data in a specfic file format (`csv`, `tiff`, `json`, and more).
+
+#### Resources
+
+Each dataset can be accompanied by one or more resources that provide fuller context for the asset. These resources may include:
+
+- Direct file download URLs
+- Documentation sites
+- API endpoints
+- Git repositories
+- Any additional materials that help users understand or access the data
+
+<img src="../pics/resources.png" style="border: 2px solid black;">

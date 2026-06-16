@@ -1,12 +1,12 @@
 Once you’ve registered and explored the catalog, you’re ready to start working in Wildfire Commons. This tutorial will walk you through the essential steps to get started:
 
-1. Create your first Workspace 
+- Create your first Workspace 
 
-2. Work on your first Workspace
+- Work on your first Workspace
 
-3. Create your first Project
+- Create your first Project
 
-4. Set up your first Group
+- Set up your first Group
 
 ## Creating your first Workspace
 
@@ -36,7 +36,7 @@ Once you’ve registered and explored the catalog, you’re ready to start worki
 
 ## Working on your first Workspace
 
-1 - Scroll down and click the *JupyterHub* button.
+1 - Scroll down and click the *Launch Options* button. Select *NSF National Research Platform*
 
 <img src="../pics/jupyter-button.png" style="border: 2px solid black;">
 

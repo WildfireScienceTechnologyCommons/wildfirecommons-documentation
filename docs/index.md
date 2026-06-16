@@ -28,7 +28,7 @@ Helpful Quick Links:
     - [Services](./add-resources/register-data.md)
 
 
-- [FireForge](https://fireforge.wildfirecommons.org/)
+- [FireForge](./fireforge/about.md)
 
 !!! info
     The Wildfire Science & Technology Commons is a UC San Diego initiative funded by the National Institute of Standards and Technology (NIST). Special thanks to Senator Alex Padilla (D-CA) and Representatives Juan Vargas (CA-52) and Sara Jacobs (CA-51) for their support of this project through the Congressional appropriations process.

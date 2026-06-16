@@ -16,16 +16,15 @@ To get access to the Wildfire Commons, you must register first.
 
 <img src="../pics/select-institution.png" style="border: 2px solid black;">
 
-5 - Alternatively, you can select ORCID
+Alternatively, if your institution is not part of CI Logon, you can select ORCID
 
 <img src="../pics/select-login-orcid.png" style="border: 2px solid black;">
 
-
-6 - Sign in using your ORCID. If you don’t have one, register to obtain it. [Learn more about ORCID](https://info.orcid.org/researchers/).
+Sign in using your ORCID. If you don’t have one, [you can create one here](https://info.orcid.org/researchers/).
 
 <img src="../pics/orcid.png" style="border: 2px solid black;">
 
-7 - As a final alternative, you may register through CILogon using a commercial account (such as Google). Please be aware that this option restricts access to resources, including national computing.
+As a final alternative, you may register through CILogon using a commercial account (such as Google). Please be aware that this option restricts access to resources, including national computing.
 
 ### Expert Network Profile
 

@@ -16,7 +16,7 @@ Integrated high-performance computing (HPC) and cloud resources are available fo
 
 #### FireForge Collaborative Workspace 
 
-A centralized, web-based interface enables multiple users to work together, sharing resources, tools, and data in real-time.
+A centralized, web-based interface enables multiple users to work together, sharing resources, tools, and data.
 
 #### Reference Architecture 
 
