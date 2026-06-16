@@ -2,6 +2,8 @@
 
 JupyterHub service (hosted by NRP's [Nautilus](https://nationalresearchplatform.org/documentation/userdocs/jupyter/jupyterhub-service/) and JupyterLite for our industry collaborators) allows users to develop their workflows in a user-friendly environment.
 
+![type:video](https://www.youtube-nocookie.com/embed/xj6-hPa2oqU)
+
 ## Set Up
 !!! info
     Prior to initiate your server, you can consult the [availabe resources page](https://portal.nrp-nautilus.io/resources)

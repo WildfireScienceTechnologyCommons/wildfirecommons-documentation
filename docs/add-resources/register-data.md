@@ -1,10 +1,10 @@
 # Registering Data, Models, and Services in the catalog
 
-The catalog is a metadata registry that enables organizations to expose their datasets to the scientific community, making them available for incorporation into AI-driven workflows and advancing research in various fields.
+The Community Catalog is a metadata registry that enables Wildfire Commons contributors to expose their datasets, models and services to the WSTC community.
 
-By registering their datasets in the catalog, organizations can increase the visibility and reach of their data, facilitating collaboration, innovation, and the advancement of research.
+By registering their resources in the Community Catalog, organizations can increase the visibility and reach of their data, facilitating collaboration, innovation, and the advancement of wildfire research.
 
-**Please note that the catalog does not store or host the actual data**. Instead, users provide a URL for direct download or an API key to facilitate access to their datasets, models, and services which are hosted externally.
+**Please note that the catalog does not store or host the any data**. Instead, contributors provide access information to their datasets, models, and services which are hosted externally.
 
 For the registration of a dataset, models, or services, providers must fill the following information in the data registration form:
 
@@ -25,16 +25,23 @@ For the registration of a dataset, models, or services, providers must fill the 
 - **Optional Custom Fields:** The CKAN ID or URL where the data is derived from (optional) and the size of the whole packaged product.
 - **Additional Information:** Any other relevant details or comments about the product that are not captured by the other fields.
 
+## Registration process
+
 The process to register your data is the following:
 
-1. After login in, go to *My Uploads* on the left side of your dashboard.
-2. On the top, click on *Register*.
-3. Fill the data registration form with the information we described previously and submit your request. 
+1. Sign-in to the Wildfire Commons and navigate to https://fireforge.wildfirecommons.org/contributions
 
-After submitting your data registration form, you will receive a confirmation email acknowledging receipt of your submission. This email confirms that we have received your request and will begin the review process.
+2. Click “Register” and fill out the registration form. You can register the following products:
 
-Our team will carefully review your submission to ensure it meets the standards and requirements of the catalog. Please be patient as we complete this review process, as it may take some time.
+    - Datasets (Dataset)
+    - AI Models (Model)
+    - Code (Github Repos, etc.)
+    - Services (APIs, etc.)
+    - Containers (Docker Images, etc.)
+    - Tools (Web applications, etc.)
 
-Once the review is complete, you will receive a second email informing you of the outcome, either accepting or rejecting your product for inclusion in the catalog. If your product is rejected, it is because it did not meet the necessary standards.
+3. Once you have completed the registration of your product, click “Save Draft” and if it is ready for a Wildfire Commons to review, click “Submit for approval” on https://fireforge.wildfirecommons.org/contributions
 
-If you have any questions or concerns regarding the review process or would like clarification on the status of your submission, please don't hesitate to contact our team for assistance. We're here to help and look forward to working with you to make your product available to the scientific community.
+4. Once your product is in the catalog, locate your product (https://fireforge.wildfirecommons.org/ckandata) and click “View more” and then click “Recommend to Marketplace”. You can also email info@wildfirecommons.org if you have questions or would like to recommend multiple products.
+
+We recommend you list one product in each submission. If you have questions or would like to work with our team to register your product(s), please email us at `info@wildfirecommons.org.` 

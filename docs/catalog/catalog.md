@@ -8,13 +8,29 @@ To streamline data discovery, Wildfire Commons integrates a search engine that e
 
 Users can perform a simple substring search, which returns a list of datasets containing the specified substring in either the dataset name or metadata. This allows for broad searches across the dataset collection, making it easy to locate relevant data with basic keywords.
 
-#### Conceptual Search
+<img src="../pics/substring-search.png" style="border: 2px solid black;">
 
-For more refined searches, users can utilize the *Conceptual Search* option. This search method returns datasets that match specific annotations, along with detailed statistics related to the occurrences of the search term within the available Open Knowledge Networks (OKNs). OKNs are semantic databases that provide linkages between datasets, concepts, and entities, facilitating more context-aware data exploration and discovery. Additionally, the search results include detailed statistics, such as frequency of occurrence, co-occurrence with other concepts, and related entities, allowing users to explore the data in a more informed way.
+
 #### Filtered Search
 
 To further aid in data discovery, users have the option to filter their search results by the contributing organization. This feature is particularly useful for those looking to access datasets from specific institutions, research groups, or initiatives. Filtering helps narrow down search results and ensures that users find data that aligns with their project needs or institutional collaborations.
 
-#### Advanced Search
+<img src="../pics/filtered-search.png" style="border: 2px solid black;">
 
-See [Advanced Search](../catalog/advanced-search.md)
+- **Tags:** Use tags to facilitate the search of data for certain domain, area of research or site.
+
+- **Organization:** Use organization filter to see the resources provided by specific insitutions/research group. 
+
+- **Format:** Use this filter to search data in a specfic file format (`csv`, `tiff`, `json`, and more).
+
+#### Resources
+
+Each dataset can be accompanied by one or more resources that provide fuller context for the asset. These resources may include:
+
+- Direct file download URLs
+- Documentation sites
+- API endpoints
+- Git repositories
+- Any additional materials that help users understand or access the data
+
+<img src="../pics/resources.png" style="border: 2px solid black;">
